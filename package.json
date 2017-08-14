@@ -1,0 +1,16 @@
+{
+  "name": "redfort-sdk",
+  "version": "1.0.18",
+  "private": false,
+  "main": "lib/index.js",
+  "dependencies": {
+    "body-parser": "1.17.2",
+    "cookie-parser": "1.4.3",
+    "debug": "2.6.8",
+    "express": "4.13.4",
+    "express-jwt": "5.0.0",
+    "jsonwebtoken": "7.1.9",
+    "request": "2.78.0",
+    "serve-favicon": "2.4.3"
+  }
+}
