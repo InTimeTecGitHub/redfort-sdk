@@ -1,6 +1,6 @@
 {
   "name": "redfort-sdk",
-  "version": "1.0.18",
+  "version": "1.0.22",
   "private": false,
   "main": "lib/index.js",
   "dependencies": {
